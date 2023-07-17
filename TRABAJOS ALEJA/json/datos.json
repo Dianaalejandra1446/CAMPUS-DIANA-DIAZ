@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "titulo": "hola1",
+        "contenido": "hola1"
+    },
+    {
+        "id": 2,
+        "titulo": "hola2",
+        "contenido": "hola2"
+    },
+    {
+        "id": 3,
+        "titulo": "hola3actualizado",
+        "contenido": "hola3actualizado"
+    }
+]
