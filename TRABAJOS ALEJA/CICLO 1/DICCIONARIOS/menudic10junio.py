@@ -230,7 +230,7 @@ def nómina_empleado():
     subsidio de transporte. Se le debe descontar el valor de la eps y pensión correspondiente al 4% cada uno
     y el salario Neto es la suma del salario bruto, el auxilio menos los descuentos."""
     while True:
-        buscarid = input("Ingrese el id del empleado que desea modificar: ")
+        buscarid = input("Ingrese el id del empleado que desea encontrar: ")
         if buscarid in nominacme:
             print("ID ENCONTRADO")
             break
